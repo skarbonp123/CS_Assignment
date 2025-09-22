@@ -14,4 +14,4 @@
 ![Scatter plot of WO vs Beer](plot.png)
 
 ## Interpretation
-The scatter plot does show that as the number of WO gradutes increases over the years, the amount of beer consumption does also tend to increase. However this relationship is not strictly linear which does suggest that there are other factors outside of number of WO graduates that affect beer consumption levels
+The scatter plot does show that as the number of WO graduates increases over the years, the amount of beer consumption also increases. However this relationship is not strictly linear which does suggest that there are other factors besides number of WO graduates that affect beer consumption levels.
